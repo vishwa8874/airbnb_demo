@@ -30,8 +30,3 @@ The images used in this project are generated randomly via Unsplash using the fo
    open index.html
    ```
 
-## Project Structure
-airbnb-clone/
-├── index.html
-├── style.css
-└── README.md
